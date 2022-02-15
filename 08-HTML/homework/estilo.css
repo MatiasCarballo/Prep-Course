@@ -1,0 +1,112 @@
+body{
+    background-image: url(fondo.jpg);
+    font-family: 'Andada Pro', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+}
+
+#titulo{        /*mi nombre*/
+    color: rgb(15, 141, 36);
+    text-align: center;
+    background-color: rgb(24, 23, 23,);
+    border-radius: 20px;
+}
+
+
+div h3, div h4{ /*h3 y h4*/
+    margin: 10px;
+    display: inline;
+    padding: 5px;
+    margin-bottom: auto;
+    color: rgb(138, 253, 29);
+    background-color: rgba(24, 23, 23, 0.7);
+    border-radius: 20px;
+}
+
+div ul li { /*Acomodar las imagenes*/
+    list-style-type: none;
+    margin-bottom: 50px;  
+}
+
+img{        /*tamaño de imagenes*/
+    width: 400px;  
+}
+
+#thirdDiv{   /*contenedor de las imagenes*/
+    height: 600px;
+    width: 500px;
+    background-color: rgba(254, 255, 221, 0.7);
+    padding: 50px;
+    border: 10px double rgb(138, 253, 29); 
+}
+
+#spanId{    /*Nombre de la Comida*/
+    font-size: 18px;
+    margin: 50px;
+    color: rgb(138, 253, 29);
+    background-color: rgba(24, 23, 23, 0.7);
+    border-radius: 20px;
+}
+
+
+div a{  /*link del restaurante*/
+    background-color: rgba(24, 23, 23, 0.7);
+    border-radius: 20px;
+}
+
+div a:link {
+    color: rgb(138, 253, 29);
+    
+}
+
+div a:visited {
+    color: rgb(212, 61, 226);
+}    
+
+div a:active {
+    color: rgb(49, 79, 145);
+}
+
+div a:hover {
+    color: aqua;
+}    
+
+
+/*----------------------CV---------------------*/
+
+.color{
+    color: rgb(138, 253, 29);
+    background-color: rgba(24, 23, 23, 0.7);
+    font-size: 20px;
+}
+
+.cv{
+    justify-content: center;
+    text-align: left;
+}
+
+#descripcion{
+    width: 1000px;
+}
+
+section{
+    text-align: center;
+    max-width: 900px;
+    padding-top: 20px;
+}
+
+
+#mifoto{
+    width: 250px;
+    float: left;
+    margin-right: 20px;
+    
+}
+
+
+
+
+
+
