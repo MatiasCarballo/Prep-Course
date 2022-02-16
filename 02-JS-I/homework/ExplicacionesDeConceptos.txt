@@ -1,0 +1,34 @@
+           Explicación de Conceptos de JS
+
+  Las variables son como cajas donde guardamos datos, 
+ para luego utilizarlos. Estas cajitas tenemos que 
+ ponerle un nombre, pondremos las letra var y después 
+ el nombre que elegimos, así cuando queramos utilizar 
+ su contenido lo llamamos por el nombre de la caja. 
+ Además las variables tienen la capacidad de cambiar
+ su contenido sin tener que cambiar el nombre de la caja.
+ Como dijimos las variables almacenan datos, 
+ algunos de estos datos pueden ser números o strings, 
+ que estos últimos son una o más letras, o una o más 
+ palabras, y estas tienen que estar entre comillas 
+ simples o dobles.   
+
+  Las funciones son como cajas más grandes,
+en donde podemos decidir que pueda hacer 
+esta caja con comandos. Esta también tenemos
+que ponerle nombres, primero le ponemos la palabra
+function y luego el nombre que elegimos, 
+preferiblemente que este nombre describa qué
+hace esta función. Luego de tenemos que ponerle 
+unos paréntesis y dentro de estos podemos poner los 
+parámetros, que serían con los que puede trabajar la 
+función, los que puede modificar la variable o los datos. 
+Y estas funciones terminan con una devolución de estos 
+datos o variables modificados, y lo hacemos con la palabra
+return.
+
+  Los if son son condiciones, son ciertas reglas que 
+podemos poner para verificar si algún datos o variables 
+es true(verdadero) o false(falso), estos son los 
+resultados que nos dan los condicionales, y teniendo 
+en cuentas esto podemos ejecutar o no ciertas acciones.
