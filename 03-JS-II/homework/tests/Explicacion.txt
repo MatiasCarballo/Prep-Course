@@ -1,0 +1,24 @@
+Explicación
+
+Podemos decir que el bucle for es la manera de facilitar
+ una tarea repetitiva, ya que al ser “repetitiva” podemos
+ejecutar los mismos comandos tan tantas veces como nos 
+sea necesario. Para poder hacerlos el bucle for nos pide 
+que pongamos 3 cosas dentro de un parentesis separado con 
+punto y coma. Primero poner una variable el cual usaremos 
+de contador, después una condición para el contador, 
+que será la que nos saque del bucle, ya que es peligroso 
+quedarse mucho tiempo en el bucle. Y por último un comando 
+que incremente o acerque el contado a la condición puesta.   
+
+
+  También tenemos los operadores lógicos que no son más que 
+el “O” e “Y”, nomas que en programación lo llamamos con 
+los siguientes símbolos || (o) e &&(y).esto los usamos 
+para comprobar si dos o más condiciones se cumplen y si lo 
+hacen pueden o no ejecutar ciertas tareas que deseamos. 
+Pero además tenemos otro operador que es de negación y en 
+programación lo escribimos con el siguiente símbolo “!” , 
+que al comparar dos datos y decirnos si es true o false nos 
+dirá lo contrario, es decir, si es false no dirá true y 
+viceversa.
