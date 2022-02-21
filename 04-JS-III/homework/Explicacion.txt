@@ -1,0 +1,15 @@
+Explicación 
+
+  Los array no son más que una lista, 
+a la cual le tendremos que poner un nombre. 
+En esta lista podremos guardar diferente 
+tipos de datos, números, palabras y 
+booleanos (verdadero o falso), 
+además también podemos guardar 
+otros arrays. Y para poder acceder a 
+ellos los llamaremos con el nombre que 
+le dimos al array principal y entre 
+corchetes(“[]”) el número de la ubicación 
+del elemento que necesitamos, 
+teniendo en cuenta que en programación 
+empezamos a contar desde cero.
