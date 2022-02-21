@@ -1,0 +1,34 @@
+Explicación
+
+Los objetos en programación no son más que 
+los objetos que usamos en lo cotidiano, 
+con sus propiedades y tareas que cumple 
+este objeto. Podemos decir que en programación 
+esté es una contenedor donde ubicamos las 
+propiedades, como el nombre, color, etc; 
+luego de eso pondremos dos puntos y agregamos 
+el valor de este (color:rojo). Y además 
+ubicamos los métodos (que son las funciones 
+que usamos en JS, en los objetos no cambia 
+su sintaxis aunque las llamemos diferentes), 
+que son las tareas que este objeto cumple, 
+si posee.
+
+Para acceder al contenido de un elemento de 
+un objeto vamos a necesitar de la notación 
+de corchetes o notación de punto. Para la 
+notación de punto tendremos que poner el 
+nombre del objeto al cual deseamos acceder y 
+luego entre corchetes el nombre del elemento. 
+Pero para la notación de punto, pondremos el nombre 
+del objeto, punto y el nombre del elemento.
+
+El bucle for…in, es una forma de repetir 
+una acción en un objeto, poniendo la palabra “for” 
+seguido de un paréntesis, el cual contendrá la 
+declaración de una variable con su nombre, 
+en la cual se guardará el resultado de cara repetición, 
+luego pondremos “in” y seguido el nombre del objeto 
+a iterar o si necesitamos una propiedad podremos 
+llamarla con la notación del punto o corchete, 
+así agregarla seguido de “in”.
