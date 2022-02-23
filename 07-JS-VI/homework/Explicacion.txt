@@ -1,0 +1,12 @@
+Explicación
+
+  El “callback” es el poder pasar una función como 
+parámetro de otra función. De esta manera podemos 
+usar por ejemplos para complementar cierta acción 
+en la función receptora. A estas funciones le 
+podemos dar cualquier nombre pero generalmente 
+se le da el nombre de “cb”. Para usarla solo 
+creamos la función con la tarea a realizar, y en 
+la función donde la recibirá solo pondremos cb 
+o el nombre que le pusimos a la primera función, 
+en la parte de los parámetros. 
