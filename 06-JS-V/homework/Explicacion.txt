@@ -1,0 +1,27 @@
+Explicación
+
+Cuando tenemos que  crear muchos objetos con los mismos 
+datos, como cuando creamos usuarios de una página web, 
+tenemos la posibilidad de usar un tipo de plantilla, 
+a está la llamamos constructores. Para usarla primero 
+la definiremos, primero nombraremos la plantilla
+poniendo function nombreDeseado y entre paréntesis 
+pondremos los parámetros, que serán las propiedades de 
+nuestro objeto. Luego  de esto pondremos las propiedades 
+igualadas a los parámetros y las funciones 
+si tiene nuestro objeto.
+  Para usarlo creamos la variable donde se almacenará 
+el objeto y la definimos poniendo la palabra clave “new” 
+con esto le decimos a la consola que queremos un nuevo 
+objeto con el el nombre que le pusimos a la plantilla
+y entre paréntesis ponemos los parámetro que serán 
+propiedades, anteriormente definimos.
+
+También podemos agregar métodos en forma de plantilla 
+a estos los llamamos “Prototype”, esto funciona ahorrar 
+espacio de procesamiento. Usando esto lo que se hace 
+es agregar un método a un objeto creado o a una constructor. 
+Para poder usarlo necesitamos poner el nombre del objeto, 
+un punto, luego prototype, otro punto y el nombre de esta 
+plantilla, luego igualamos con el método que 
+queramos introducir.
